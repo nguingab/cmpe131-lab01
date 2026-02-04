@@ -1,0 +1,4 @@
+	Based on this lab, I learned that branches are crucial for collaboration in software development. This is because fundamentally, they allow changes to be made for the code without affecting the
+main branch for the project. What this means is that developers are able to work in parallel, which greatly increases efficiency while maintaining an organized workflow. In addition, branches allow a 
+safe way for developers to test and debug code without disrupting the main codebase. This feature gives rise to the opportunity to isolate specific branches for issues before being merged to the main
+branch. 
